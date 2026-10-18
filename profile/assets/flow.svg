@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Thyme Flow">
+  <rect width="64" height="64" rx="14" fill="#0B130F" />
+  <g transform="translate(-6.446389 -6.385120) scale(0.06126915)">
+    <path fill="#00BF76" d="M504 398 H575 Q599 398 591 422 L443 830 Q434 855 413 855 H344 Q319 855 328 831 L480 419 Q488 398 504 398 Z" />
+    <path fill="#FFFFFF" d="M675 398 H908 Q930 398 930 420 V476 Q930 498 908 498 H758 V568 H908 Q930 568 930 590 V640 Q930 662 908 662 H758 V833 Q758 855 736 855 H675 Q642 855 642 822 V431 Q642 398 675 398 Z" />
+  </g>
+</svg>
